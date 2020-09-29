@@ -1,6 +1,6 @@
 # UNIFINITY
-<img src="https://github.com/UNYC/images/logo.png" width="500"></p>
-<a href="https://www.Unifinity.eu/">Visit our Website<img src="https://github.com/UNYC/images/logo.png"></a>
+<img src="https://github.com/althea89sky/UNIFINITYCREDITS/blob/master/UNYC/images/logo.png" height="150" width="150"></p>
+<a href="https://www.Unifinity.eu/">Visit our Website</a>
 <br>
 
 ## Objective
@@ -27,6 +27,8 @@ Teachers are consuming extra hours and after school work loads are needed to be 
 Where the Teacher’s work is extended into an extra amount of unpaid hours only to monitor and provide remarks to the students performance, giving them less time on focusing on Quality Learning Materials and lesson plans resulting to poor student’s interaction towards the class and low quality of teaching materials are now presented to the learners. 
 
 Unifinity reward and recognition programs are one method of motivating the users to improve the current workload of an educator by simplifying the remark distribution thru the application while empowering the students to participate more in classes by accelerating their skillset thru the support of Performance Based Rewards Distribution Platform that utilizes the Smart contract and automating the Remark distribution by allocating UNY Points based on the student’s behavior/ activities and completed task which will result to improving their study habits and key behaviors that will benefit the Students and the Teachers.
+
+<img src="https://github.com/althea89sky/UNIFINITYCREDITS/blob/master/UNYC/images/UNYC_TokenModel.png" height="150" width="150"></p>
 
 ## Designing a Rewards based on Proof of Activity.
 The keys to developing a reward program are as follows:
